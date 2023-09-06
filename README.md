@@ -1,7 +1,6 @@
 # UCA-WEB
 
-Ejemplo: 
-Claro, aquí tienes un código CSS para hacer que tu página web sea responsive, con comentarios explicativos:
+Ejemplo: codigo responsive CSS 
 
 ```css
 /* Establecemos un tamaño de fuente base para el cuerpo de la página */
@@ -76,7 +75,6 @@ body {
 }
 ```
 
-En este código, he agregado comentarios que explican cada parte del CSS:
 
 1. Establecemos un tamaño de fuente base para el cuerpo de la página.
 
@@ -88,4 +86,4 @@ En este código, he agregado comentarios que explican cada parte del CSS:
 
 5. Las clases `.header`, `.nav`, `.main-content`, `.sidebar` y `.footer` contienen estilos específicos para esas secciones de la página.
 
-Puedes personalizar estos estilos y ajustar los tamaños de fuente, colores y diseños según tus necesidades específicas. Este código proporciona un punto de partida simple y modificable para hacer que tu página sea responsive.
+
